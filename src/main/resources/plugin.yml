@@ -1,0 +1,4 @@
+name: Overlord
+version: 1.0.0
+main: me.chainsaw.overlord.Overlord
+author: ChainsawNinja
